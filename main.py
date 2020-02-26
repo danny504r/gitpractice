@@ -1,8 +1,10 @@
 def main(msg):
-    # A second comment
-    # A comment
-    # A third comment just for a little fun
+    # No longer need comments
     print(msg)
+
+
+def secondary():
+    print("New function")
 
 
 main("Hello world")
